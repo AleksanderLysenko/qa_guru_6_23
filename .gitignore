@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 # Allure
-tests/android_app/allure-results
+allure-results/
 
 # Distribution / packaging
 .Python
